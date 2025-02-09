@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(195, 223, 207);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#checkBtn
+{
+    background-color:rgb(148, 207, 255);
+    font-size: 16px;
+    font: Arial;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+#output
+{
+    color: rgb(168, 0, 0);
+}
+
+#success
+{
+    color: rgb(7, 83, 7);
+}
